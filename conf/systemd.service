@@ -1,0 +1,16 @@
+[Unit]
+Description=Ombi
+After=network.target
+
+[Service]
+Type=simple
+User=__APP__
+Group=__APP__
+WorkingDirectory=__INSTALL_DIR__/
+ExecStart=__INSTALL_DIR__/Ombi --baseurl __PATH__ --storage __DATA_DIR__ --host http://127.0.0.1:__PORT__
+TimeoutStopSec=30
+Restart=on-failure
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target

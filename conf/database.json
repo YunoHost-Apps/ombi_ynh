@@ -1,0 +1,6 @@
+{
+    "OmbiDatabase": {
+        "Type":"MySQL",
+        "ConnectionString":"Server=localhost;Port=3306;Database=__DB_NAME__;User=__DB_USER__;Password=__DB_PWD__"
+    }
+}
