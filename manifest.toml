@@ -17,6 +17,7 @@ website = "https://ombi.io/"
 demo = "https://app.ombi.io/landingpage"
 admindoc = "https://docs.ombi.app/guides/installation/"
 code = "https://github.com/Ombi-app/Ombi"
+fund ="https://www.paypal.com/paypalme/PlexRequestsNet"
 
 [integration]
 yunohost = ">= 11.2"
