@@ -42,10 +42,10 @@ yunohost service add $app --description="Media request tool" --log="/var/log/$ap
 #=================================================
 ynh_script_progression --message="Adding a configuration file..." --weight=1
 
-ynh_add_config --template="../conf/database.json" --destination="$install_dir/database.json"
+ynh_add_config --template="../conf/database.json" --destination="$data_dir/database.json"
 
-chmod 650 "$install_dir/database.json"
-chown $app:$app "$install_dir/database.json"
+chmod 650 "$data_dir/database.json"
+chown $app:$app "$data_dir/database.json"
 
 #=================================================
 # GENERIC FINALIZATION
