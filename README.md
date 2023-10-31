@@ -32,6 +32,7 @@ Ombi is a self-hosted web application that automatically gives your shared Plex 
 * Official app website: <https://ombi.io/>
 * Official admin documentation: <https://docs.ombi.app/guides/installation/>
 * Upstream app code repository: <https://github.com/Ombi-app/Ombi>
+* YunoHost Store: <https://apps.yunohost.org/app/ombi>
 * Report a bug: <https://github.com/YunoHost-Apps/ombi_ynh/issues>
 
 ## Developer info
