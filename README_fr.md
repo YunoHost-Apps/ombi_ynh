@@ -31,6 +31,7 @@ Ombi est une application Web auto-hébergée qui donne automatiquement à vos ut
 * Site officiel de l’app : <https://ombi.io/>
 * Documentation officielle de l’admin : <https://docs.ombi.app/guides/installation/>
 * Dépôt de code officiel de l’app : <https://github.com/Ombi-app/Ombi>
+* YunoHost Store: <https://apps.yunohost.org/app/ombi>
 * Signaler un bug : <https://github.com/YunoHost-Apps/ombi_ynh/issues>
 
 ## Informations pour les développeurs
