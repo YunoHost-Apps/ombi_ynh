@@ -55,7 +55,11 @@ ram.runtime = "50M"
         arm64.sha256 = "5e747fb93ef796e292a58afa89e672bb49a33b2db75c6b395150e47b4214f4f4"
         armhf.url = "https://github.com/Ombi-app/Ombi/releases/download/v4.43.5/linux-arm.tar.gz"
         armhf.sha256 = "7c8fc3a079395c645c4e514e6f4987844fc45eea3ea7679948adee1ccf7f4435"
-        autoupdate.strategy = "latest_github_tag"
+
+        autoupdate.strategy = "latest_github_release"
+        autoupdate.asset.arm64 = "linux-arm64\\.tar\\.gz"
+        autoupdate.asset.amd64 = "linux-x64\\.tar\\.gz"
+        autoupdate.asset.armhf = "linux-arm\\.tar\\.gz"
 
     [resources.system_user]
 
