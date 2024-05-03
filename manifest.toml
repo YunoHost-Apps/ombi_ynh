@@ -9,7 +9,7 @@ description.fr = "Outil de demande de médias sur Plex/Emby/Jellyfin"
 
 version = "4.43.5~ynh1"
 
-maintainers = [""]
+maintainers = []
 
 [upstream]
 license = "GPL-2.0"
