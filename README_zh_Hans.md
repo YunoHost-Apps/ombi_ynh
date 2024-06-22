@@ -3,7 +3,7 @@
 请勿手动编辑。
 -->
 
-# YunoHost 的 Ombi
+# YunoHost 上的 Ombi
 
 [![集成程度](https://dash.yunohost.org/integration/ombi.svg)](https://dash.yunohost.org/appci/app/ombi) ![工作状态](https://ci-apps.yunohost.org/ci/badges/ombi.status.svg) ![维护状态](https://ci-apps.yunohost.org/ci/badges/ombi.maintain.svg)
 
