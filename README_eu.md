@@ -5,7 +5,7 @@ EZ editatu eskuz.
 
 # Ombi YunoHost-erako
 
-[![Integrazio maila](https://dash.yunohost.org/integration/ombi.svg)](https://dash.yunohost.org/appci/app/ombi) ![Funtzionamendu egoera](https://ci-apps.yunohost.org/ci/badges/ombi.status.svg) ![Mantentze egoera](https://ci-apps.yunohost.org/ci/badges/ombi.maintain.svg)
+[![Integrazio maila](https://dash.yunohost.org/integration/ombi.svg)](https://ci-apps.yunohost.org/ci/apps/ombi/) ![Funtzionamendu egoera](https://ci-apps.yunohost.org/ci/badges/ombi.status.svg) ![Mantentze egoera](https://ci-apps.yunohost.org/ci/badges/ombi.maintain.svg)
 
 [![Instalatu Ombi YunoHost-ekin](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=ombi)
 
@@ -19,7 +19,7 @@ EZ editatu eskuz.
 Ombi is a self-hosted web application that automatically gives your shared Plex or Emby users the ability to request content by themselves! Ombi can be linked to multiple TV Show and Movie DVR tools to create a seamless end-to-end experience for your users.
 
 
-**Paketatutako bertsioa:** 4.43.5~ynh1
+**Paketatutako bertsioa:** 4.44.1~ynh1
 
 **Demoa:** <https://app.ombi.io/landingpage>
 
