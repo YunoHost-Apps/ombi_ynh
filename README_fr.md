@@ -24,7 +24,7 @@ Ombi est une application Web auto-hébergée qui donne automatiquement à vos ut
 
 ## Captures d’écran
 
-![Capture d’écran de Ombi](./doc/screenshots/screenshot.png)
+![Capture d’écran de Ombi](./doc/screenshots/screenshot.jpg)
 
 ## Documentations et ressources
 
