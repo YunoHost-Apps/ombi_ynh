@@ -25,7 +25,7 @@ Ombi is a self-hosted web application that automatically gives your shared Plex 
 
 ## Capturas
 
-![Captura de Ombi](./doc/screenshots/screenshot.png)
+![Captura de Ombi](./doc/screenshots/screenshot.jpg)
 
 ## Documentaciones y recursos
 
