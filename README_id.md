@@ -19,7 +19,7 @@ Ini TIDAK boleh diedit dengan tangan.
 Ombi is a self-hosted web application that automatically gives your shared Plex or Emby users the ability to request content by themselves! Ombi can be linked to multiple TV Show and Movie DVR tools to create a seamless end-to-end experience for your users.
 
 
-**Versi terkirim:** 4.44.1~ynh1
+**Versi terkirim:** 4.44.1~ynh2
 
 **Demo:** <https://app.ombi.io/landingpage>
 
