@@ -5,7 +5,9 @@ Ini TIDAK boleh diedit dengan tangan.
 
 # Ombi untuk YunoHost
 
-[![Tingkat integrasi](https://dash.yunohost.org/integration/ombi.svg)](https://ci-apps.yunohost.org/ci/apps/ombi/) ![Status kerja](https://ci-apps.yunohost.org/ci/badges/ombi.status.svg) ![Status pemeliharaan](https://ci-apps.yunohost.org/ci/badges/ombi.maintain.svg)
+[![Tingkat integrasi](https://apps.yunohost.org/badge/integration/ombi)](https://ci-apps.yunohost.org/ci/apps/ombi/)
+![Status kerja](https://apps.yunohost.org/badge/state/ombi)
+![Status pemeliharaan](https://apps.yunohost.org/badge/maintained/ombi)
 
 [![Pasang Ombi dengan YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=ombi)
 
@@ -19,7 +21,7 @@ Ini TIDAK boleh diedit dengan tangan.
 Ombi is a self-hosted web application that automatically gives your shared Plex or Emby users the ability to request content by themselves! Ombi can be linked to multiple TV Show and Movie DVR tools to create a seamless end-to-end experience for your users.
 
 
-**Versi terkirim:** 4.44.1~ynh2
+**Versi terkirim:** 4.47.1~ynh1
 
 **Demo:** <https://app.ombi.io/landingpage>
 
@@ -31,7 +33,7 @@ Ombi is a self-hosted web application that automatically gives your shared Plex 
 
 - Website aplikasi resmi: <https://ombi.io/>
 - Dokumentasi admin resmi: <https://docs.ombi.app/guides/installation/>
-- Repositori kode aplikasi hulu: <https://github.com/Ombi-app/Ombi>
+- Depot kode aplikasi hulu: <https://github.com/Ombi-app/Ombi>
 - Gudang YunoHost: <https://apps.yunohost.org/app/ombi>
 - Laporkan bug: <https://github.com/YunoHost-Apps/ombi_ynh/issues>
 
