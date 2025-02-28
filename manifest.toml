@@ -7,7 +7,7 @@ name = "Ombi"
 description.en = "Media request tool on Plex/Emby/Jellyfin"
 description.fr = "Outil de demande de médias sur Plex/Emby/Jellyfin"
 
-version = "4.47.1~ynh1"
+version = "4.47.1~ynh2"
 
 maintainers = []
 
