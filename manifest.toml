@@ -7,7 +7,7 @@ name = "Ombi"
 description.en = "Media request tool on Plex/Emby/Jellyfin"
 description.fr = "Outil de demande de médias sur Plex/Emby/Jellyfin"
 
-version = "4.47.1~ynh2"
+version = "4.47.1~ynh3"
 
 maintainers = []
 
@@ -20,7 +20,8 @@ code = "https://github.com/Ombi-app/Ombi"
 fund ="https://www.paypal.com/paypalme/PlexRequestsNet"
 
 [integration]
-yunohost = ">= 11.2"
+yunohost = ">= 12.1.18"
+helpers_version = "2.1"
 architectures = ["amd64", "arm64", "armhf"]
 multi_instance = true
 
@@ -70,6 +71,7 @@ ram.runtime = "50M"
     [resources.permissions]
     main.url = "/"
     main.auth_header = false
+    
     api.url = "/api"
     api.allowed = "visitors"
     api.show_tile = false
