@@ -12,7 +12,7 @@ Media request tool on Plex/Emby/Jellyfin
 
 [![🌐 Official app website](https://img.shields.io/badge/Official_app_website-darkgreen?style=for-the-badge)](https://ombi.io/)
 [![App Demo](https://img.shields.io/badge/App_Demo-blue?style=for-the-badge)](https://app.ombi.io/landingpage)
-[![Version: 4.47.1~ynh3](https://img.shields.io/badge/Version-4.47.1~ynh3-rgb(18,138,11)?style=for-the-badge)](https://ci-apps.yunohost.org/ci/apps/ombi/)
+[![Version: 4.47.1~ynh4](https://img.shields.io/badge/Version-4.47.1~ynh4-rgb(18,138,11)?style=for-the-badge)](https://ci-apps.yunohost.org/ci/apps/ombi/)
 
 <div align="center">
 <a href="https://apps.yunohost.org/app/ombi"><img height="100px" src="https://github.com/YunoHost/yunohost-artwork/raw/refs/heads/main/badges/neopossum-badges/badge_more_info_on_the_appstore.svg"/></a>
