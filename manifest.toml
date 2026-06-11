@@ -7,7 +7,7 @@ name = "Ombi"
 description.en = "Media request tool on Plex/Emby/Jellyfin"
 description.fr = "Outil de demande de médias sur Plex/Emby/Jellyfin"
 
-version = "4.53.5~ynh1"
+version = "4.53.10~ynh1"
 
 maintainers = []
 
@@ -50,12 +50,12 @@ ram.runtime = "50M"
     [resources.sources]
 
         [resources.sources.main]
-        amd64.url = "https://github.com/Ombi-app/Ombi/releases/download/v4.53.5/linux-x64.tar.gz"
-        amd64.sha256 = "1a09eb8461ad99d9263db1f5572c61888e3cdde9e791453c6eef9d4c0fd83c14"
-        arm64.url = "https://github.com/Ombi-app/Ombi/releases/download/v4.53.5/linux-arm64.tar.gz"
-        arm64.sha256 = "99906da82c1a1866b3bd61afe1614b0c7160eb0b4dd9c792e72dd4b38e5f83b8"
-        armhf.url = "https://github.com/Ombi-app/Ombi/releases/download/v4.53.5/linux-arm.tar.gz"
-        armhf.sha256 = "8e29a75bf43e03f8eaadfd0f1d9a13e9b8e510d473de956a104dc9920f6a259b"
+        amd64.url = "https://github.com/Ombi-app/Ombi/releases/download/v4.53.10/linux-x64.tar.gz"
+        amd64.sha256 = "e2e69816455de02e3b672cc09b05ba8629d60dc9090244bde89f7ec7735a89cf"
+        arm64.url = "https://github.com/Ombi-app/Ombi/releases/download/v4.53.10/linux-arm64.tar.gz"
+        arm64.sha256 = "daf7968003ea61edc8f1ee26f891146fce26afa33d5baf863443bc96c9a19c48"
+        armhf.url = "https://github.com/Ombi-app/Ombi/releases/download/v4.53.10/linux-arm.tar.gz"
+        armhf.sha256 = "8a6d19eb7af6cf1a4ebbd444613bbf3b46ed5c51f41fd4f7db7422427422b987"
 
         autoupdate.strategy = "latest_github_release"
         autoupdate.asset.arm64 = "linux-arm64\\.tar\\.gz"
